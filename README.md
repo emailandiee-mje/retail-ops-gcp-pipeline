@@ -72,6 +72,9 @@ Moved beyond basic metrics to measure **Operational Efficiency**.
 * **Logic:** Compares "What we sold it for" vs. "What our pricing model says we *should* have sold it for."
 * **Fiscal Conservatism:** Engineered logic to deduct Vendor Credits from the highest-markup category (Flowers) first, preventing inflated revenue projections.
 
+## 📈 Dashboard Preview
+![Dashboard Preview](docs/dashboard_preview.png)
+*Figure 1: Executive Dashboard tracking the Revenue Realization Gap.*
 ---
 
 ## 📂 Repository Structure
