@@ -16,16 +16,16 @@ This project implements a **Modern Data Stack** using entirely serverless compon
 
 ```mermaid
 graph LR
-    User((Staff)) -->|Input/Search| WebApp[Custom Web App\n(Apps Script + Tailwind)]
-    WebApp -->|JSON| Sheets[(Google Sheets\nOperational DB)]
+    User((Staff)) -->|Input/Search| WebApp["Custom Web App<br>(Apps Script + Tailwind)"]
+    WebApp -->|JSON| Sheets[("Google Sheets<br>Operational DB")]
     
     subgraph "Google Cloud Platform (BigQuery)"
-        Sheets -->|External Table| Staging[Staging Layer\n(Raw Data)]
-        Staging -->|Scheduled Query| Prod[Production Layer\n(Cleaned Fact Tables)]
-        Prod -->|SQL Views| Semantic[Semantic Layer\n(Business Logic)]
+        Sheets -->|External Table| Staging["Staging Layer<br>(Raw Data)"]
+        Staging -->|Scheduled Query| Prod["Production Layer<br>(Cleaned Fact Tables)"]
+        Prod -->|SQL Views| Semantic["Semantic Layer<br>(Business Logic)"]
     end
     
-    Semantic -->|Viz| Looker[Looker Studio\nDashboard]
+    Semantic -->|Viz| Looker["Looker Studio<br>Dashboard"]
     
     style WebApp fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
     style Prod fill:#ebf8ff,stroke:#4285f4,stroke-width:2px
