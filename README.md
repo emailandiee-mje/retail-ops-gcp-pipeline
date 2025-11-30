@@ -43,7 +43,7 @@ Built a custom **Single Page Application (SPA)** to solve the "Garbage In, Garba
 * **Features:** Real-time search, invoice editing, and data validation.
 * **Impact:** Eliminated paper processes and reduced manual calcuation errors.
 
-[Web App Interface](docs/webapp_ui.png)
+![Web App Interface](docs/webapp_ui.png)
 *The custom Single Page Application (SPA) built with Tailwind CSS.*
 
 ### 2. The Backend: Serverless ETL
@@ -51,6 +51,9 @@ Designed a robust data pipeline that runs on autopilot.
 * **Ingestion:** Daily Scheduled Queries in BigQuery ingest raw data from Sheets.
 * **Transformation:** SQL scripts handle currency casting, date parsing, and schema enforcement.
 * **Zero-Maintenance:** No servers to manage (EC2) and runs within the GCP Free Tier.
+
+![BigQuery Schema](docs/bigquery_schema.png)
+*Automated BigQuery Schema ensuring strict data typing.*
 
 ### 3. The "Time Machine" Pricing Engine
 **The Challenge:** The business changes markup rules annually. Applying 2025 pricing rules to 2023 invoices would inflate historical revenue.
