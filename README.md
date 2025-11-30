@@ -41,7 +41,10 @@ graph LR
 Built a custom **Single Page Application (SPA)** to solve the "Garbage In, Garbage Out" problem.
 * **Tech:** Google Apps Script serving HTML5 + Tailwind CSS via CDN.
 * **Features:** Real-time search, invoice editing, and data validation.
-* **Impact:** Eliminated paper invoices and reduced data entry errors by ~40%.
+* **Impact:** Eliminated paper processes and reduced manual calcuation errors.
+
+![Web App Interface](docs/webapp_ui.png)
+*The custom Single Page Application (SPA) built with Tailwind CSS.*
 
 ### 2. The Backend: Serverless ETL
 Designed a robust data pipeline that runs on autopilot.
