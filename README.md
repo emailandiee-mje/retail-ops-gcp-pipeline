@@ -74,7 +74,7 @@ Moved beyond basic metrics to measure **Operational Efficiency**.
 
 ## 📈 Dashboard Preview
 ![Dashboard Preview](docs/dashboard_preview.png)
-*Figure 1: Executive Dashboard tracking the Revenue Realization Gap.*
+*Executive Dashboard tracking the Revenue Realization Gap.*
 ---
 
 ## 📂 Repository Structure
