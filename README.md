@@ -92,6 +92,6 @@ This project utilized an **AI-Assisted Vibe Coding** methodology to accelerate d
 ---
 
 ## 👤 Author
-**[Your Name]**
+**Miranda Jane Ellison**
 *Analytics Engineer & Project Manager*
-[LinkedIn](Your_LinkedIn_URL) | [Portfolio](Your_Portfolio_URL)
+[LinkedIn](https://www.linkedin.com/in/miranda-j-ellison/) | [Portfolio](https://emailandiee-mje.github.io/portfolio-mje/)
