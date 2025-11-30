@@ -43,7 +43,7 @@ Built a custom **Single Page Application (SPA)** to solve the "Garbage In, Garba
 * **Features:** Real-time search, invoice editing, and data validation.
 * **Impact:** Eliminated paper processes and reduced manual calcuation errors.
 
-![Web App Interface](docs/webapp_ui.png)
+[Web App Interface](docs/webapp_ui.png)
 *The custom Single Page Application (SPA) built with Tailwind CSS.*
 
 ### 2. The Backend: Serverless ETL
