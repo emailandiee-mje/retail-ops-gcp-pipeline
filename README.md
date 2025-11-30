@@ -1,12 +1,13 @@
-# 🌸 RetailOps GCP: Serverless Retail Intelligence Platform
+# 🌸 RetailOps ERP: Serverless Retail Intelligence Platform
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Data_Warehouse-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker-Visualization-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Apps_Script-Frontend-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker-Visualization-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-> **A full-stack ERP and Analytics ecosystem designed to modernize operations for a boutique retailer.** > *Replaced legacy paper workflows with a Serverless Cloud Architecture.*
+> **A full-stack ERP and Analytics ecosystem designed to modernize operations for a boutique retailer.**
+> *Replaced legacy paper workflows with a Serverless Cloud Architecture.*
 
 ---
 
